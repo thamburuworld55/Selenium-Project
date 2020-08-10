@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="120435" started-at="2020-08-09T01:34:07 PDT" finished-at="2020-08-09T01:36:08 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="120435" started-at="2020-08-09T01:34:07 PDT" finished-at="2020-08-09T01:36:08 PDT">
+      <class name="test.BibleTest5">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.BibleTest5@4d41cee]" name="beforeTest" is-config="true" duration-ms="27520" started-at="2020-08-09T01:34:07 PDT" finished-at="2020-08-09T01:34:35 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="EnterDetails()[pri:0, instance:test.BibleTest5@4d41cee]" name="EnterDetails" duration-ms="17365" started-at="2020-08-09T01:34:35 PDT" finished-at="2020-08-09T01:34:52 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails -->
+        <test-method status="PASS" signature="EnterDetails2()[pri:0, instance:test.BibleTest5@4d41cee]" name="EnterDetails2" duration-ms="6027" started-at="2020-08-09T01:34:52 PDT" finished-at="2020-08-09T01:34:58 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails2 -->
+        <test-method status="PASS" signature="EnterDetails3()[pri:0, instance:test.BibleTest5@4d41cee]" name="EnterDetails3" duration-ms="16594" started-at="2020-08-09T01:34:58 PDT" finished-at="2020-08-09T01:35:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails3 -->
+        <test-method status="PASS" signature="EnterDetails4()[pri:0, instance:test.BibleTest5@4d41cee]" name="EnterDetails4" duration-ms="36291" started-at="2020-08-09T01:35:15 PDT" finished-at="2020-08-09T01:35:51 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails4 -->
+        <test-method status="PASS" signature="EnterDetails5()[pri:0, instance:test.BibleTest5@4d41cee]" name="EnterDetails5" duration-ms="14419" started-at="2020-08-09T01:35:51 PDT" finished-at="2020-08-09T01:36:06 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails5 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.BibleTest5@4d41cee]" name="afterTest" is-config="true" duration-ms="2096" started-at="2020-08-09T01:36:06 PDT" finished-at="2020-08-09T01:36:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.BibleTest5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
